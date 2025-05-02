@@ -4,13 +4,14 @@
 
 🔭 <h5> Currently working on </h5>
 
-    Applying my knowledge of Spring Boot on my university projects
+    Passarinhar hub, a project for birdwatchers which utilizes NodeJS, Supabase and offers integration with maps and Stripe
 
 🌱 <h5> Currently learning </h5>
 
-    Java
     Python
     Spring Boot
+    Data Science
+    Docker
 
 💬 <h5>Ask me about</h5>
 
@@ -18,4 +19,5 @@
     Python
     Maps and physical geography
     Music
-    Ancient Mesopotamia
+    Data and information science
+    Ancient and music history
