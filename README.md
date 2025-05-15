@@ -9,8 +9,8 @@
 🌱 <h5> Currently learning </h5>
 
     Python
-    Spring Boot
     Data Science
+    Data pipelines
     Docker
 
 💬 <h5>Ask me about</h5>
